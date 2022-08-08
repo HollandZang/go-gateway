@@ -1,0 +1,10 @@
+[
+  {
+    "url": "http://www.baidu.com",
+    "expression": "amount==0"
+  },
+  {
+    "url": "https://www.bilibili.com/",
+    "expression": "(amount==2) || selfDefine=='透传参数'"
+  }
+]
